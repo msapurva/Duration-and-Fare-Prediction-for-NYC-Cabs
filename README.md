@@ -1,4 +1,4 @@
-# About Project : Resurgence of NYC Yellow Cabs
+# About Project : Fare and Duration Estimation for NYC Yellow Cabs
 
 - This Project is for course IST 718: Big Data Analytics @ Syracuse University
 - Professor: Daniel Acuna <deacuna@syr.edu>
