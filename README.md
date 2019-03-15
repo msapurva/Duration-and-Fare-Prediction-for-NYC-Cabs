@@ -1,30 +1,20 @@
-# About Project : Fare and Duration Estimation for NYC Yellow Cabs
+# Fare & Duration Prediction for NYC Yellow Cabs
 
 - This Project is for course IST 718: Big Data Analytics @ Syracuse University
 - Professor: Daniel Acuna <deacuna@syr.edu>
 
 ## Objective and Focus:
 
-- Due to advent of smart cab companies such as Uber and Lyft, people are preferring smart services over the traditional taxis in NYC. The research throws light on the following important issues to be the reason in dip in the usage of Yellow taxis
-#### Information Unavailability:
-- The yellow taxi drivers do not get real-time updates on availability of
-passengers. The drivers spend majority of their time searching for customers
-#### Fare negotiation:
-- Availability of smartphone apps for Uber and Lyft helps passengers to be informed about the ride prices
-- The yellow cab drivers spend time in making a proposal and waiting to make a
-deal post the effort of finding a customer
+-  Prediction of Fare and Estimated duration of a ride from Point A to B
+-  Does weather and holidays really affect the profitability of driver?  
 
-
-## Focus: 
--  Whether the ride will be profitable for the driver?
--  Does weather and holidays really affect the profitability of driver? 
-#### Why these questions:
--  Uber/Lyft Drivers and smart apps have destroyed the remarkable icon cabs
--  Stringent Interviews and Background Checks to achieve driving permits for above mentioned smart cabs. Not everyone gets to become their drivers.
--  Hence, adverse effect on employment rate and crime rate
+## Philosophy:
+- Information Unavailability for drivers
+- Fare negotiation:The yellow cab drivers spend time in making a proposal and waiting to make a deal post the effort of finding a customer
 
 
 ## Requirements:
+
 - Python 3.7.0.
 - Pandas
 - Numpy
